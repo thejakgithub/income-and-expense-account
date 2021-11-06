@@ -1,0 +1,6 @@
+.expense{
+    border-right: 5px solid rgb(255, 96, 96);
+}
+.income{
+    border-right: 5px solid #04AA6D;
+}
